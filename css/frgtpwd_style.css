@@ -1,0 +1,59 @@
+    body
+            {
+                background-image: url(/img/1.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+                height:100%;
+                width:100%;
+                zoom:100%;
+            }
+         header 
+            {
+                background-color: #072f5f;
+                padding: 30px;
+                text-align: center;
+                font-size: 55px;
+                color: white;
+            }
+        #frgtpwd
+            {
+                 border: 0px;
+                 padding: 5px;
+                 margin: 0px;
+                 color: black;
+                 border: 5px solid slategray;
+                 text-align: center;
+            }
+        nav 
+            {
+                position: absolute;
+                left: 500px;
+                float:right;
+                width: 27%;
+                background: #ccb;
+                padding: 20px;
+                font-size: 25px;
+                border-radius: 12px;
+            }
+        .size_input
+            {
+                font-size: 23px;
+                padding: 10px;
+                outline: none;
+                width: 365px;
+                
+            }
+         .size_button
+            {
+                font-size: 30px;
+                float: right;
+                background-color: #072f5f;
+                width: 365px;  
+                color: white;
+            } 
+         #errpassrst
+            {
+                color: red;
+                font-size: 20px;
+            }

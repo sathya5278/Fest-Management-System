@@ -1,0 +1,61 @@
+ #login
+            {
+                 border: 0px;
+                 padding: 5px;
+                 margin: 0px;
+                 color: black;
+                 border: 5px solid slategray;
+                 text-align: center;
+            }
+            header 
+            {
+                background-color: #072f5f;
+                padding: 30px;
+                text-align: center;
+                font-size: 55px;
+                color: white;
+               
+            }
+            nav 
+            {
+                
+                background: #ccb;
+                padding: 20px;
+                font-size: 25px;
+                border-radius: 12px;
+              
+            }
+            .size_input
+            {
+                font-size: 23px;
+                padding: 10px;
+                outline: none;
+                width: 405px;
+                height: 40px;                
+            }
+            
+            .size_button
+            {
+                font-size: 30px;
+                background-color: #072f5f;
+                width: 405px;  
+                color: white;
+            }
+           
+            .size_button:hover{background-color: cadetblue }
+            
+            body
+            {
+                background-image: url(/img/1.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-attachment: fixed;
+                height:100%;
+                width:100%;
+                zoom:100%;
+            }
+            #errsignup
+            {
+                color: red;
+                font-size: 20px;
+            }

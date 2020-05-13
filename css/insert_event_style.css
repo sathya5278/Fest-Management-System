@@ -1,0 +1,143 @@
+.flex-container-form_header {
+    display: -webkit-flex;
+    display: flex;
+    width: auto;
+    height: auto;
+    background-color: cadetblue;
+    border-bottom: 3px solid #072f5f;
+}
+
+h1[id="form_header"] {
+    margin-left: 20px;
+    font-family: Roboto-Thin;
+    color: #263238;
+}
+
+
+
+@media screen and (max-width: 855px) {
+    .flex-container, .flex-container-form_header {
+        margin-left: auto;
+    }
+}
+
+/* Bordered form */
+
+
+label {
+    display: block;
+    float: left;
+    color: papayawhip;
+    font-family: OpenSans-Bold;
+    font-size: 20px;
+    margin: 8px 0;
+    padding: 1px 1px;
+    border: 0;
+    width: 130px;
+}
+
+label[id="info_label"] {
+    display: block;
+    float: right;
+    margin-left: 6px;
+    font-family: Roboto-Regular;
+    color: #212121;
+    font-size: 24px;
+}
+
+
+
+/* Full-width inputs */
+input[type=text],input[type=number],input[type=date],input[type=time] {
+    font-family: Roboto-Regular;
+    color: papayawhip;
+    font-size: 24px;
+    width: 230px;
+    margin: 8px 0;
+    padding: 1px 1px;
+    border: 0;
+    border-bottom: 3px solid white;
+    box-sizing: border-box;
+    background-color: transparent;
+}
+
+@media screen and (max-width: 480px) {
+    input[type=text] {
+        width: 300px;
+    }
+
+    label[id="info_label"] {
+        display: block;
+        float:none;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    input[type=text] {
+        width: 240px;
+    }
+}
+
+
+
+
+/* Set a style for all buttons */
+button {
+    font-family: OpenSans-Regular;
+    font-size: 18px;
+    background-color: #00BCD4;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 15px;
+    border: none;
+    cursor: pointer;
+    width: auto;
+    border-radius: 3px;
+}
+
+/*.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    font-family: OpenSans-Regular;
+    font-size: 18px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/*.password-button {
+    background-color: transparent;
+    color: #d50000;
+    font-family: OpenSans-Regular;
+    font-size: 18px;
+    padding: 14px 20px;
+    margin: 8px 0;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 3px;
+    border: 2px solid #d50000;
+    cursor: pointer;
+}
+
+.password-button:hover {
+    background-color: #d32f2f;
+    color: white;
+    border: 2px solid #d32f2f;
+}
+*/
+/* Add a hover effect for buttons */
+button:hover, .button:hover {
+    opacity: 0.5;
+}
+
+/* Extra style for the cancel button (red) */
+.reset {
+    width: auto;
+    background-color: #f44336;
+}
