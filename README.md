@@ -7,7 +7,7 @@ events and transactions in a college-level fest.
 ![Registration](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/insert.png "Registration")
 ![Search](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/search.png "Search")
 ![Manage](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/manage.png "Manage")
-![Report](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/report.png "Report") 
+![Report](assets/report.png "Report") 
 
 ## Requirements
 * Windows or Linux OS
