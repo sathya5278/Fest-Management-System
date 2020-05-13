@@ -3,7 +3,7 @@ Fest Management System is a web-based tool developed to effectively manage regis
 events and transactions in a college-level fest.
 
 ## Screenshots
-![HomePage](assets/home.png "Homepage")
+![HomePage](assets/home1.png "Homepage")
 ![Registration](assets/insert.png "Registration")
 ![Search](assets/search.png "Search")
 ![Manage](assets/manage.png "Manage")
