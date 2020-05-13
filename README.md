@@ -3,10 +3,10 @@ Fest Management System is a web-based tool developed to effectively manage regis
 events and transactions in a college-level fest.
 
 ## Screenshots
-![HomePage](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/home.png "Homepage")
-![Registration](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/insert.png "Registration")
-![Search](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/search.png "Search")
-![Manage](https://github.com/sathya5278/Fest-Management-System/tree/master/assets/manage.png "Manage")
+![HomePage](assets/home.png "Homepage")
+![Registration](assets/insert.png "Registration")
+![Search](assets/search.png "Search")
+![Manage](assets/manage.png "Manage")
 ![Report](assets/report.png "Report") 
 
 ## Requirements
