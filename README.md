@@ -4,8 +4,8 @@ events and transactions in a college-level fest.
 
 ## Screenshots
 
-<img src = assets/manage.png height = 1000 width = 200>
-<img src = assets/report.png height = 1000 width = 200>
+<img src = assets/manage.png height = 200 width = 1000>
+<img src = assets/report.png height = 200 width = 1000>
 
 ## Requirements
 * Windows or Linux OS
